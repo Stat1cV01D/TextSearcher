@@ -1,0 +1,1 @@
+A program to search for some text in ASCII, UTF-8 or Unicode in text or binary files.
